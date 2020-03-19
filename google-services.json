@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924290319667",
+    "firebase_url": "https://rnweup.firebaseio.com",
+    "project_id": "rnweup",
+    "storage_bucket": "rnweup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924290319667:android:f0514f274a84f7fec12a46",
+        "android_client_info": {
+          "package_name": "RN.WE.UP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924290319667-aomc1kc352tis1e2qimpk7vv7430oi5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSgbdRUTTLoQZzrd-Mv4gaRm6MohowRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924290319667-aomc1kc352tis1e2qimpk7vv7430oi5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
